@@ -1,0 +1,11 @@
+breathe-smart-mumbai/
+├── README.md
+├── docs/
+│   └── Breathe_Smart_Mumbai_Project.docx   (or PDF version)
+├── prompts/
+│   ├── system_prompt_health_advisory.txt
+│   └── retrieval_summarization_prompt.txt
+├── architecture/
+│   └── system_architecture_diagram.png
+└── sample-conversation/
+    └── sample_chat_transcript.md
